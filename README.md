@@ -10,13 +10,4 @@ Usage:
 
 $ ./pedridns -h 
 
-Now, let's go started:        
-
-Running pedridns
-
-$ pedridns -d your-domain in dnstt after use cidr-ip
-
-exemple :                                       
-pedridns -d ns.exemple.com 8.8.8.0/24 or also u can use /16 ..
-
-my telegram : t.me/@pedridns 
+t.me/@pedridns 
