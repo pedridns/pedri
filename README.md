@@ -14,6 +14,8 @@ $ ./pedridns -h
 ![1000000157](https://github.com/pedridns/pedri-dnstt/assets/164835933/0761419f-4bc3-466c-b439-9d35e4b54f27)
 
 
-u can use cidr-ips /24 ; /16 
+Possible IP formats:
+
+xxx.xxx.xxx.0-255 ; xxx.xxx.xxx.xxx/24 ; xxx.xxx.xxx.xxx/16
 
 t.me/@pedridns 
