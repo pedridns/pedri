@@ -12,10 +12,14 @@ Usage:
 
 $ ./pedridns -h 
 
-Now, let's get started:
+Now, let's go started:
 
 Running pedridns
 
-$ pedridns -d your-domain in dnstt or use google.com after use cidr ip like 8.8.8.0/24 or /16 ..
+$ pedridns -d your-domain in dnstt after use cidr-ip
+
+exemple : 
+
+pedridns -d ns.exemple.com 8.8.8.0/24 or also u can use /16 ..
 
 t.me/@pedridns 
