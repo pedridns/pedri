@@ -2,7 +2,8 @@
 An accurate dns scanner for DNSTT tunneling
 
 
-Install pedridns using wget:
+Install pedridns using wget cmd:
+
 wget https://raw.githubusercontent.com/pedridns/pedri-dnstt/main/pedridns
 
 chmod +x pedridns
