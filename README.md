@@ -11,6 +11,7 @@ Usage:
 
 $ ./pedridns -h 
 
-![1000000155](https://github.com/pedridns/pedri-dnstt/assets/164835933/0c1dcdc4-9024-4238-8f03-30f826bc84ed)
+![1000000157](https://github.com/pedridns/pedri-dnstt/assets/164835933/0761419f-4bc3-466c-b439-9d35e4b54f27)
+
 
 t.me/@pedridns 
