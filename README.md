@@ -16,6 +16,6 @@ $ ./pedridns -h
 
 Possible IP formats:
 
-xxx.xxx.xxx.0-255 ; xxx.xxx.xxx.xxx/24 ; xxx.xxx.xxx.xxx/16
+xxx.xxx.xxx.0-255 ; xxx.xxx.xxx.0/24 ; xxx.xxx.xxx.0/16
 
 t.me/@pedridns 
