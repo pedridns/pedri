@@ -11,10 +11,6 @@ Usage:
 
 $ ./pedridns -h 
 
-Running pedridns
-
-pedridns -d ns.exemple.com 8.8.8.0/24 or 8.8.0.0/16 like this ..
-
--d = your domain if u have dnstt server if you don't have use any domain ssh slowdns ..
+![1000000155](https://github.com/pedridns/pedri-dnstt/assets/164835933/0c1dcdc4-9024-4238-8f03-30f826bc84ed)
 
 t.me/@pedridns 
