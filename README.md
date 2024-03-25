@@ -11,6 +11,8 @@ Usage:
 
 $ ./pedridns -h 
 
+~ Running pedridns script 
+
 ![1000000157](https://github.com/pedridns/pedri-dnstt/assets/164835933/0761419f-4bc3-466c-b439-9d35e4b54f27)
 
 
