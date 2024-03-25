@@ -1,11 +1,12 @@
 # Pedri-dnstt
-dns scanner for DNSTT tunneling
+DNS SERVER Scanner For DNSTT Tunneling
 
 Install pedridns using wget:
 
 $ wget https://raw.githubusercontent.com/pedridns/pedri-dnstt/main/pedridns             
-$ chmod +x pedridns                       
-Usage:                                
+$ chmod +x pedridns     
+
+Usage:           
 $ ./pedridns -h 
 
 Now, let's go started:                                  
